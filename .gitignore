@@ -1,0 +1,6 @@
+# Bytecode and environment
+
+venv/
+__pycache__/
+*.pyc
+*.db
